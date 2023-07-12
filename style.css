@@ -151,7 +151,8 @@ body {
 }
 
 .footerContainer {
-  background-image: url("footerBackground.png") no-repeat;
+  background-image: url("footerBackground.png");
+  background-repeat: no-repeat;
   background-size: cover;
   max-width: 1440px;
   margin-top: 190px;
