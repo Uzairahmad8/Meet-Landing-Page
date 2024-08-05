@@ -1,3 +1,3 @@
 # Meet-Landing-Page
 
-https://meetlandingpage8.netlify.app
+Live Preview: https://meetlandingpage8.netlify.app
